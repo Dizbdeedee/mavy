@@ -1,0 +1,11 @@
+[
+	{
+	  "modid": "mavy",
+	  "name": "Mavy",
+	  "version": "${version}",
+	  "mcversion": "${mcversion}",
+	  "description": "Minecraft keyboard interface for NEI, crafting and more.",
+	  "credits": "skate702 for creating CraftingKeys, which has been a great help, and avy.el for being the inspiration",
+	  "authorList": [ "Dizzydefiler" ]
+	}
+]
