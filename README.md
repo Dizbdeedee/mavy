@@ -8,7 +8,7 @@ All keys can be customised in the forge mod config screen.
 
 ## Keys/Actions
 
-Default keys are notated as follows [Default:One handed default].
+Default keys are notated as follows [Default|One handed default].
 
 Some keys have the ability to be prefixed with a specified number before enabling, which can modify their behavior. Clear this prefix by using the Reload/Clear prefix button.
 
